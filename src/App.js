@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2 className='App-link'>This app is hosted on AWS S3</h2>
         <h2 className='App-link'>Testing CI &amp; CD</h2>
+        <h2 className='App-link'>Test completed</h2>
       </header>
     </div>
   );
